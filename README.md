@@ -5,3 +5,7 @@ On some problems, the Decision Tree Learning algorithm will generate a large tre
 
 ## Usage
 `python decision.py file_name alpha`
+
+**file_name** contains tagged data
+
+**alpha** is used for chi-square pruning
